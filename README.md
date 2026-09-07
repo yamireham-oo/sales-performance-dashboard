@@ -2,6 +2,8 @@
 
 Interactive dashboard analyzing revenue and profit margin across categories, products, regions, and sales reps.
 
+Dashboard Preview
+
 <img width="1034" height="509" alt="Sales Performance" src="https://github.com/user-attachments/assets/d1a07776-6c09-48c5-b5b4-7a24b86d06b0" />
 
 
